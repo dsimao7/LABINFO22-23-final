@@ -1,0 +1,23 @@
+    1  git clone https://github.com/dsimao7/LABINFO22-23-final.git
+    2  ls
+    3  cd LABINFO22-23-final/
+    4  ls
+    5  cd --
+    6  cd AuthenticImmenseHypotenuse/
+    7  list
+    8  cd LABINFO22-23-final/
+    9  cat README.md 
+   10  clear
+   11  ls
+   12  vi index.html
+   13  ls
+   14  cat index.html 
+   15  git add index.html 
+   16  git commit -m "Criação do ficheiro index.html"
+   17  git config --global user.email dsimao@ua.pt
+   18  git config --global user.name provafinal
+   19  git commit -m "Criação do ficheiro index.html"
+   20  git push branch main
+   21  git push origin main
+   22  git push origin main
+   23  history > comandosNoServidor.txt
